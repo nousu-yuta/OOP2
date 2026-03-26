@@ -1,0 +1,604 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GameTest",
+            "request": "launch",
+            "mainClass": "tyousenjou.GameTest",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "TestMain",
+            "request": "launch",
+            "mainClass": "lesson09.TestMain",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "ReMain",
+            "request": "launch",
+            "mainClass": "lesson09.ReMain",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson09.Main",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "lesson09.Main3",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Practice7_001",
+            "request": "launch",
+            "mainClass": "lesson07.Practice7_001",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_207",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_207",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_201",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_201",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_202",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_202",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice5_001",
+            "request": "launch",
+            "mainClass": "lesson05.ExPractice5_001",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice4_003",
+            "request": "launch",
+            "mainClass": "lesson04.ExPractice4_003",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Practice4_001",
+            "request": "launch",
+            "mainClass": "lesson04.Practice4_001",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice4_004",
+            "request": "launch",
+            "mainClass": "lesson04.ExPractice4_004",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice3_006",
+            "request": "launch",
+            "mainClass": "lesson03.ExPractice3_006",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Practice2_005",
+            "request": "launch",
+            "mainClass": "lesson02.Practice2_005",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Practice2_002",
+            "request": "launch",
+            "mainClass": "lesson02.Practice2_002",
+            "projectName": "OOP2_b24bfd1e"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "lesson09.Main3",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "TestMain",
+            "request": "launch",
+            "mainClass": "lesson09.TestMain",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_209",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_209",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_208",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_208",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_207",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_207",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_206",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_206",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_203",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_203",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_204",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_204",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_205",
+            "request": "launch",
+            "mainClass": "lesson06.Practice6_205",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice6_102",
+            "request": "launch",
+            "mainClass": "pack_b.Practice6_102",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "practice5_026",
+            "request": "launch",
+            "mainClass": "lesson05.practice5_026",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_025",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_025",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_024",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_024",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_023",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_023",
+            "projectName": "OOP2_6aaf9a7",
+            "args": "1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Practice1_003",
+            "request": "launch",
+            "mainClass": "lesson01.Practice1_003",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice1_004",
+            "request": "launch",
+            "mainClass": "lesson01.Practice1_004",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice1_005",
+            "request": "launch",
+            "mainClass": "lesson01.Practice1_005",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson01.Test",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice2_001",
+            "request": "launch",
+            "mainClass": "lesson02.Practice2_001",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice2_002",
+            "request": "launch",
+            "mainClass": "lesson02.Practice2_002",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice2_003",
+            "request": "launch",
+            "mainClass": "lesson02.Practice2_003",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice2_004_1",
+            "request": "launch",
+            "mainClass": "lesson02.Practice2_004_1",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice2_005",
+            "request": "launch",
+            "mainClass": "lesson02.Practice2_005",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice3_001",
+            "request": "launch",
+            "mainClass": "lesson03.ExPractice3_001",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice3_002",
+            "request": "launch",
+            "mainClass": "lesson03.ExPractice3_002",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice3_003",
+            "request": "launch",
+            "mainClass": "lesson03.ExPractice3_003",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice3_004",
+            "request": "launch",
+            "mainClass": "lesson03.ExPractice3_004",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice3_006",
+            "request": "launch",
+            "mainClass": "lesson03.ExPractice3_006",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice3_007",
+            "request": "launch",
+            "mainClass": "lesson03.ExPractice3_007",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPrarctice3_005",
+            "request": "launch",
+            "mainClass": "lesson03.ExPrarctice3_005",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_001",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_001",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_002",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_002",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_003",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_003",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_004",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_004",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_005",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_005",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_006",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_006",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_007",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_007",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_008",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_008",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice3_009",
+            "request": "launch",
+            "mainClass": "lesson03.Practice3_009",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice4_003",
+            "request": "launch",
+            "mainClass": "lesson04.ExPractice4_003",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice4_004",
+            "request": "launch",
+            "mainClass": "lesson04.ExPractice4_004",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "ExPractice4_006",
+            "request": "launch",
+            "mainClass": "lesson04.ExPractice4_006",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice4_001",
+            "request": "launch",
+            "mainClass": "lesson04.Practice4_001",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice4_002",
+            "request": "launch",
+            "mainClass": "lesson04.Practice4_002",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice4_003",
+            "request": "launch",
+            "mainClass": "lesson04.Practice4_003",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice4_004",
+            "request": "launch",
+            "mainClass": "lesson04.Practice4_004",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice4_005",
+            "request": "launch",
+            "mainClass": "lesson04.Practice4_005",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice4_006",
+            "request": "launch",
+            "mainClass": "lesson04.Practice4_006",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_001",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_001",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_002",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_002",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_003_1",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_003_1",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_003_2",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_003_2",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_004",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_004",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_005",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_005",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_006",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_006",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_007",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_007",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_009",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_009",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_010",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_010",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_011",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_011",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_012",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_012",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_014",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_014",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_015",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_015",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_017",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_017",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_018",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_018",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_019",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_019",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_020",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_020",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_021",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_021",
+            "projectName": "OOP2_6aaf9a7"
+        },
+        {
+            "type": "java",
+            "name": "Practice5_022",
+            "request": "launch",
+            "mainClass": "lesson05.Practice5_022",
+            "projectName": "OOP2_6aaf9a7",
+            "args": "1"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+package lesson06;
+
+public class Practice6_103 {
+    public static void main(String[] args) {
+        java.util.Scanner scan = new java.util.Scanner(System.in);
+    }
+}
