@@ -9,15 +9,15 @@ import java.util.List;
 
 public class ExPractice4_003 {
     public static void main(String[] args) {
-        File file = new File("./src/lesson04/exam.txt"); // ← lesson04 に修正
+        File file = new File("./src/lesson04/exam.txt");
         List<String> list = new ArrayList<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(file))) { // ← FileReader を経由、try-with-resources で自動クローズ
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line;
-            while ((line = br.readLine()) != null) { // ← null チェックに修正
-                list.add(line); // ← list に追加
+            while ((line = br.readLine()) != null) { 
+                list.add(line);
             }
-        } catch (IOException e) { // ← 例外処理を追加
+        } catch (IOException e) {
             e.printStackTrace();
         }
 
