@@ -1,3 +1,14 @@
+・背景、きっかけ
+　→　プログラミング未経験から基礎力を身につけるため
+ 　　アルゴリズムや構文理解を目的として取り組んだ
+・取り組み内容
+　→　条件分岐、ループ、配列、インスタンス化などを用いたプログラム作成
+ 　　エラー解決やロジック改善を繰り返した
+・今後について
+　→　基礎だけでなく、実際のアプリ開発に活かしたい
+ 　　可読性や設計も意識できるようになりたい
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
