@@ -7,9 +7,9 @@ public class Practice6_205 {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
 
-        list.add("ね");
-        list.add("よ");
-        list.add("う！");
+        list.add("お");
+        list.add("は");
+        list.add("よ！");
 
         for (String element : list) {
             System.out.println(element);

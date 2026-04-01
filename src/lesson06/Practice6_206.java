@@ -14,7 +14,7 @@ public class Practice6_206 {
 
         //要素数を任意にする
         List<String> list2 = new ArrayList<>(list);
-        list2.add("4晩");
+        list2.add("4番");
 
         for (String element : list2) {
             System.out.println(element);
